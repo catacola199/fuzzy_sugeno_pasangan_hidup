@@ -1,0 +1,1 @@
+# fuzzy_sugeno_pasangan_hidup
